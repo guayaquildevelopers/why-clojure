@@ -1,0 +1,6 @@
+*.jar
+target
+*/.cpcache
+*/node_modules
+.class
+*.log

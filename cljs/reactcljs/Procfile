@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/reactcljs.jar clojure.main -m reactcljs.server
